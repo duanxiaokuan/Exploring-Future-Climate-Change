@@ -1,0 +1,4 @@
+SELECT *
+FROM  city_data;
+SELECT *
+FROM   global_data;
